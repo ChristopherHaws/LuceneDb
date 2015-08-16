@@ -1,0 +1,17 @@
+{
+    "version": "1.0.0-*",
+    "description": "LuceneDatabase Class Library",
+    "authors": [ "Christopher Haws" ],
+    "tags": [ "" ],
+    "projectUrl": "",
+    "licenseUrl": "",
+
+    "dependencies": {
+        "Lucene.Net": "3.0.3",
+        "JetBrains.Annotations": "9.2.0"
+    },
+
+    "frameworks": {
+        "dnx451": { }
+    }
+}

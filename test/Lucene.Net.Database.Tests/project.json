@@ -1,0 +1,22 @@
+{
+    "version": "1.0.0-*",
+    "description": "LuceneDatabase.Tests test project",
+    "authors": [ "Christopher Haws" ],
+    "tags": [ "" ],
+    "projectUrl": "",
+    "licenseUrl": "",
+
+    "dependencies": {
+        "xunit": "2.1.0-beta4-build3109",
+        "xunit.runner.dnx": "2.1.0-beta4-build134",
+        "Lucene.Net.Database": "1.0.0-*",
+        "JetBrains.Annotations": "9.2.0"
+    },
+    "commands": {
+        "test": "xunit.runner.dnx"
+    },
+
+    "frameworks": {
+        "dnx451": { }
+    }
+}
